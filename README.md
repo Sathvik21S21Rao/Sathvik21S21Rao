@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **Streamlit,Natural language processing,Hugging face models, scikit-learn**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
