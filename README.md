@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sathvik S Rao</h1>
+![Header](https://github.com/Sathvik21S21Rao/Sathvik21S21Rao/blob/main/github-header-image.png)
 <h3 align="center">I am currently studying in IIIT B (batch 2022-2027)</h3>
 
 - 🔭 I’m currently working on **a chatbot called File Insight**
