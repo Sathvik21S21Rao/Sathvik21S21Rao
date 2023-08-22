@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a chatbot called File Insight**
 
-- 🌱 I’m currently learning **Streamlit,Natural language processing,Hugging face models, scikit-learn**
+- 🌱 I’m currently learning **Streamlit,Natural language processing,Hugging face models, scikit-learn, Pytorch**
 
 <p align="left">
 </p>
