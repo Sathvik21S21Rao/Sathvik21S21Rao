@@ -1,9 +1,9 @@
 ![Header](https://github.com/Sathvik21S21Rao/Sathvik21S21Rao/blob/main/github-header-image.png)
 <h3 align="center">I am currently studying in IIIT B (batch 2022-2027)</h3>
 
-- 🔭 I’m currently working on **a chatbot called File Insight**
+- 🔭 I’m currently working on **License plate detection using opencv**
 
-- 🌱 I’m currently learning **Streamlit,Natural language processing,Hugging face models, scikit-learn, Pytorch**
+- 🌱 I’m currently learning **OpenCV,Pytorch**
 
 <p align="left">
 </p>
